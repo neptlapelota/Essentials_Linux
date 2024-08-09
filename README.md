@@ -1,1 +1,2 @@
-# Essentials_Linux
+# comando essenciais
+Bom os comandos que estão no arquivo acima são os mais usados de todos quando se fala de linux, sem eles é impossivel se locomover, criar, ou apagar alguma coisa, então como já ta no nome eles são essenciais dentro de um sistema linux, são o tapete de bem-vindo da porta da casa que se chama Linux...
